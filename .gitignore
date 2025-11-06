@@ -1,1 +1,9 @@
 disease_venv/
+# training outputs
+runs/
+mlruns/
+data/
+
+# python cache
+__pycache__/
+*.pyc
