@@ -1,4 +1,5 @@
 disease_venv/
+disease_venv_gpu/
 # training outputs
 runs/
 mlruns/
